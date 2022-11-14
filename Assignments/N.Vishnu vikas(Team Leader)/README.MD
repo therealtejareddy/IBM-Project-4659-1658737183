@@ -9,5 +9,5 @@ ASSIGNMENT 2 :🎯
 ASSIGNMENT 3 : 🎯
 3rd is based on working with Cloud Storage and Watson Assistant.
 
-## ASSIGNMENT 4 : 🎯
+ASSIGNMENT 4 : 🎯
 4th is based on working with DOcker and Kubernetes and deploy in a Nodeport
