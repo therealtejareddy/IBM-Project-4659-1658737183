@@ -8,7 +8,7 @@
 <br /> 
 
 <!-- PROJECT LOGO -->
-<img src="./imageContent/Index.jpg" align="center" width="500px">
+<img src="./ImageContent/Index.jpg" align="center" width="500px">
 <p align="center">
   <h3 align="center" size=20px>CUSTOMER CARE REGISTRY</h3>
 
